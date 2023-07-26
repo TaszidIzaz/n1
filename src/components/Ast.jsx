@@ -21,4 +21,4 @@ export function Ast(props) {
   )
 }
 
-useGLTF.preload('/models/mando/ast.glb')
+useGLTF.preload('/models/n1/ast.glb')
